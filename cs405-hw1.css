@@ -1,0 +1,11 @@
+.bar {
+    fill: #b735a1; /* Change the color if needed */
+}
+
+.chart {
+    border: 2px solid #ffffff; /* Add borders for visualization */
+}
+
+h1 {
+    text-align: left;
+}
